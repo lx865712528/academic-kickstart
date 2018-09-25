@@ -7,14 +7,14 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "News"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 30
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* 2018-May: I am going to visit [professor Yue Zhang](https://frcchang.github.io/) in [Singapore University of Technology and Design](sutd.edu.sg) in Aug for one year funded by [CSC](http://www.csc.edu.cn/).
+* 2018-Jun: One paper has been accepted by [COLING 2018](http://coling2018.org/).
+* 2018-Jul: One long paper has been accepted by [EMNLP 2018](http://emnlp2018.org/), see you at Brussels!
