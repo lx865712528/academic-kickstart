@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, Brussels, Belgium, October 31 - November 4, 2018."
-publication_short = "In *EMNLP*"
+publication_short = "In *EMNLP 2018*"
 
 # Abstract and optional shortened version.
 abstract = "Event extraction is of practical utility in natural language processing. In the real world, it is a common phenomenon that multiple events existing in the same sentence, where extracting them are more difficult than extracting a single event. Previous works on modeling the associations between events by sequential modeling methods suffer a lot from the low efficiency in capturing very long-range dependencies. In this paper, we propose a novel Jointly Multiple Events Extraction (JMEE) framework to jointly extract multiple event triggers and arguments by introducing syntactic shortcut arcs to enhance information flow and attention-based graph convolution networks to model graph information. The experiment results demonstrate that our proposed framework achieves competitive results compared with state-of-the-art methods."
@@ -44,7 +44,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/abs/1809.09078v1"
-url_code = ""
+url_code = "https://github.com/lx865712528/JMEE"
 url_dataset = ""
 url_project = ""
 url_slides = ""
