@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1809.09078v1"
+url_preprint = "https://arxiv.org/abs/1809.09078"
 url_code = "https://github.com/lx865712528/JMEE"
 url_dataset = ""
 url_project = ""
