@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://aclweb.org/anthology/D18-1156"
 url_preprint = "https://arxiv.org/abs/1809.09078"
 url_code = "https://github.com/lx865712528/JMEE"
 url_dataset = ""
