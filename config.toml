@@ -65,7 +65,7 @@ enableGitInfo = false
   organizations = [ { name = "Beijing Institute of Technology", url = "http://cs.bit.edu.cn/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "0.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "${FIRST_NAME}${LAST_NAME}@${INSTITUTE}.edu.cn"
   address = "No. 5 South Zhongguancun Street, Haidian District, Beijing, China, 100081"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
