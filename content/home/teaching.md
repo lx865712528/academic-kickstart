@@ -14,6 +14,8 @@ subtitle = ""
 weight = 30
 
 +++
+* 2019-May: One long paper has been accepted by [ACL 2019](http://acl2019.org/), see you at Florence!
+
 * 2018-Nov: One paper has been accepted by [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
 
 * 2018-Jul: One long paper has been accepted by [EMNLP 2018](http://emnlp2018.org/), see you at Brussels!

@@ -1,10 +1,10 @@
 +++
-title = "Distant Supervision for Relation Extraction with Linear Attenuation Simulation and Non-IID Relevance Embedding"
-date = 2019-01-27T00:00:00
+title = "Open Domain Event Extraction Using Neural Latent Variable Models"
+date = 2019-05-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Changsen Yuan", "Heyan Huang", "Chong Feng", "Xiao Liu", "Xiaochi Wei"]
+authors = ["Xiao Liu", "Heyan Huang", "Yue Zhang"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Changsen Yuan", "Heyan Huang", "Chong Feng", "Xiao Liu", "Xiaochi We
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the Thirty-Third *AAAI* Conference on Artificial Intelligence, Honolulu, Hawaii, USA, January 27-February 1, 2019"
-publication_short = "In *AAAI*"
+publication = "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, Florence, Italy, July 28 - August 2, 2019."
+publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "Distant supervision for relation extraction is an efficient method to reduce labor costs and has been widely used to seek novel relational facts in large corpora, which can be identified as a multi-instance multi-label problem. However, existing distant supervision methods suffer from selecting important words in the sentence and extracting valid sentences in the bag. Towards this end, we propose a novel approach to address these problems in this paper. Firstly, we propose a linear attenuation simulation to reflect the importance of words in the sentence with respect to the distances between entities and words. Secondly, we propose a non-independent and identically distributed (non-IID) relevance embedding to capture the relevance of sentences in the bag. Our method can not only capture complex information of words about hidden relations, but also express the mutual information of instances in the bag. Extensive experiments on a benchmark dataset have well-validated the effectiveness of the proposed method."
+abstract = "TBA"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1812.09516"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
