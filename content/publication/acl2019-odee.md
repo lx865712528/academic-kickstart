@@ -22,7 +22,7 @@ publication = "In Proceedings of the 57th Annual Meeting of the Association for 
 publication_short = "In *ACL*"
 
 # Abstract and optional shortened version.
-abstract = "TBA"
+abstract = "We consider open domain event extraction, the task of extracting unconstraint types of events from news clusters. A novel latent variable neural model is constructed, which is scalable to very large corpus. A dataset is collected and manually annotated, with task-specific evaluation metrics being designed. Results show that the proposed unsupervised model gives better performance compared to the state-of-the-art method for event schema induction."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1906.06947"
 url_code = ""
 url_dataset = ""
 url_project = ""
