@@ -28,6 +28,11 @@ weight = 5
   year = 2018
 
 [[education.courses]]
+  course = "Joint Ph.D. Student"
+  institution = "Nanyang Technological University"
+  year = 2019
+
+[[education.courses]]
   course = "BSc in Computer Science"
   institution = "Beijing Institute of Technology"
   year = 2012

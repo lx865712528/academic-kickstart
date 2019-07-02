@@ -22,4 +22,4 @@ weight = 30
 
 * 2018-Jun: One paper has been accepted by [COLING 2018](http://coling2018.org/).
 
-* 2018-May: I am going to visit [professor Yue Zhang](https://frcchang.github.io/) in [Singapore University of Technology and Design](https://www.sutd.edu.sg/) in Aug for one year funded by [CSC](https://www.csc.edu.cn/).
+* 2018-May: I am going to visit [professor Yue Zhang](https://frcchang.github.io/) in [Singapore University of Technology and Design](https://www.sutd.edu.sg/) and [Nanyang Technological University](https://www.ntu.edu.sg/) in Aug for one year funded by [CSC](https://www.csc.edu.cn/).
