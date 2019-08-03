@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.aclweb.org/anthology/P19-1276"
 url_preprint = "https://arxiv.org/abs/1906.06947"
 url_code = "https://github.com/lx865712528/ACL2019-ODEE"
 url_dataset = ""
