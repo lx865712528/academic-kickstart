@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://aaai.org/ojs/index.php/AAAI/article/view/4731"
 url_preprint = "https://arxiv.org/abs/1812.09516"
 url_code = ""
 url_dataset = ""
