@@ -1,30 +1,35 @@
 +++
-# Feature/Skill widget.
-widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-# Activate this widget? true/false
-active = false
-
-title = ""
+title = "Skills"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 20
-
+# Showcase personal skills or business features.
+# 
 # Add/remove as many `[[feature]]` blocks below as you like.
-# See `config.toml` for more info on available icons.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "files-o"
-  icon_pack = "fa"
-  name = "Data Driven"
-  description = "..."
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "90%"
   
 [[feature]]
-  icon = "pencil"
-  icon_pack = "fa"
-  name = "Math"
-  description = "..."
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "100%"  
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "10%"
 
 +++
