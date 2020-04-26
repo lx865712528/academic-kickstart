@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 
 +++
+* 2020-April: One long paper has been accepted by [IJCAI-PRICAI 2020](https://ijcai20.org/).
 
 * 2019-May: One long paper has been accepted by [ACL 2019](http://acl2019.org/), see you at Florence!
 
