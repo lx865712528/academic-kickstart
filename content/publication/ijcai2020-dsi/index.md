@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dialogue State Induction"
-authors: []
+title: "Dialogue State Induction Using Neural Latent Variable Models"
+authors: ["Qingkai Min", "Libo Qin", "Zhiyang Teng", "Xiao Liu", "Yue Zhang"]
 date: 2020-07-11T00:00:00+08:00
 doi: ""
 
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "In Proceedings of the 29th International Joint Conference on Artificial Intelligence, IJCAI 2020, Yokoyama, Japan, July 11 - July 17, 2020."
 publication_short: "In *IJCAI-PRICAI 2020*"
 
-abstract: "To Appear"
+abstract: "Dialogue state modules are a useful component in a task-oriented dialogue system. Traditional methods find dialogue states by manually labeling training corpora, upon which neural models are trained. However, the labeling process can be costly, slow, error-prone, and more importantly, cannot cover the vast range of domains in real-world dialogues for customer service. We propose the task of dialogue state induction, building two neural latent variable models that mine dialogue states automatically from unlabeled customer service dialogue records. Results show that the models can effectively find meaningful dialogue states. In addition, equipped with induced dialogue states, a state-ofthe-art dialogue system gives better performance compared with not using a dialogue state module."
 
 # Summary. An optional shortened abstract.
 summary: ""
