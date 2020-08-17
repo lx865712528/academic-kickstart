@@ -28,18 +28,18 @@ interests:
 
 education:
   courses:
-  - course: Joint PhD
-    institution: Nanyang Technological University
-    year: 2019
-  - course: Joint PhD
-    institution: Singapore University of Technology and Design
-    year: 2018
   - course: PhD in Natural Language Processing
     institution: Beijing Institute of Technology
-    year: 2017
+    year: 2021
+  - course: Joint PhD Student
+    institution: Nanyang Technological University
+    year: 2019
+  - course: Joint PhD Student
+    institution: Singapore University of Technology and Design
+    year: 2018
   - course: BSc in Computer Science
     institution: Beijing Institute of Technology
-    year: 2012
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
