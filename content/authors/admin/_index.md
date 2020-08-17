@@ -77,7 +77,8 @@ user_groups:
 - Visitors
 ---
 
-I am a third year Ph.D. candidate majoring in Computer Science at [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
+I am a fourth year Ph.D. candidate majoring in Computer Science at [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/), planning to graduate in the end of August 2021 and looking for opportunities in industarial research positions.
+
 My research interests are mainly focused on Natural language processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
 
 My Ph.D. supervisor is [professor Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
