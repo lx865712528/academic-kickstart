@@ -4,7 +4,7 @@
 title: "Dialogue State Induction Using Neural Latent Variable Models"
 authors: ["Qingkai Min", "Libo Qin", "Zhiyang Teng", "Xiao Liu", "Yue Zhang"]
 date: 2020-07-11T00:00:00+08:00
-doi: ""
+doi: "10.24963/ijcai.2020/532"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-04-25T00:00:00+08:00
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://www.ijcai.org/Proceedings/2020/532"
 url_preprint: ""
 url_code: ""
 url_dataset:

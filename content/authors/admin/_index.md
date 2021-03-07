@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Natural Language Processing
     institution: Beijing Institute of Technology
-    year: 2021
+    year: 
   - course: Joint PhD Student
     institution: Nanyang Technological University
     year: 2019
@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year Ph.D. candidate majoring in Computer Science at [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/), planning to graduate in the end of August 2021 and looking for opportunities in industarial research positions.
+I am Ph.D. candidate with [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
 
 My research interests are mainly focused on Natural language processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
 
