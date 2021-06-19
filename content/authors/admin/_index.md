@@ -28,18 +28,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Natural Language Processing
+  - course: PhD in NLP
     institution: Beijing Institute of Technology
-    year: 
+    year: 2017 -
   - course: Joint PhD Student
     institution: Nanyang Technological University
     year: 2019
   - course: Joint PhD Student
     institution: Singapore University of Technology and Design
     year: 2018
-  - course: BSc in Computer Science
+  - course: BSc in CS
     institution: Beijing Institute of Technology
-    year: 2016
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -79,6 +79,6 @@ user_groups:
 
 I am Ph.D. candidate with [School of Computer Science & Technology, Beijing Institute of Technology](http://cs.bit.edu.cn/).
 
-My research interests are mainly focused on Natural language processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
+My research interests are mainly focused on Natural Language Processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
 
 My Ph.D. supervisor is [professor Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
